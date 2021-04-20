@@ -12,4 +12,3 @@ src/other/dash-to-dock/stylesheet-dark.css
 parse-sass.sh
 lib-release.sh
 make-release.sh
-stable-release/make-releases.sh
