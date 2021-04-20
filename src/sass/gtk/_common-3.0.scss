@@ -1378,8 +1378,7 @@ actionbar {
   border-top: 1px solid $borders_color;
   background-color: darken($bg_color, 3%);
 
-  .background.csd revealer > &,
-  .background.csd > box.vertical > & {
+  .background.csd revealer > & {
     border-radius: 0 0 $wm_radius $wm_radius;
   }
 }
