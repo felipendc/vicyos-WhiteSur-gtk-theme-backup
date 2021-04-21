@@ -120,6 +120,7 @@ snap="false"
 gdm="false"
 dash_to_dock="false"
 max_round="false"
+showapps_normal="false"
 
 # Misc
 msg=""
